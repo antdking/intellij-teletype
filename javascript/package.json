@@ -1,0 +1,7 @@
+{
+  "name": "jetbrains-teletype",
+  "main": "index.js",
+  "dependencies": {
+    "@atom/teletype-client": "^0.38.4"
+  }
+}
